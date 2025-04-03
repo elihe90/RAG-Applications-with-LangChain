@@ -1,2 +1,5 @@
 # RAG-Applications-with-LangChain
 Retrieval augmented generation (RAG) encompasses a family of systems that extend conventional language models, large and otherwise (LLMs), to incorporate context based on retrieved knowledge from a document base, thereby leading to more truthful and relevant responses being generated upon user queries. 
+In this context, LangChain attained particular attention as a framework that simplifies the development of RAG applications, providing orchestration tools for integrating LLMs with external data sources, managing retrieval pipelines, and handling workflows of varying complexity in a robust and scalable manner.
+
+This article provides a practice step-by-step guide to building a very simple local RAG application with LangChain, defining at each step the key components needed. To navigate you through this process, we will be using Python. This article is intended to be an introductory practical resource that supplements the RAG foundations covered in the Understanding RAG series. If you are new to RAG and looking for a gentle theoretical background, we recommend you check out this article series first!
