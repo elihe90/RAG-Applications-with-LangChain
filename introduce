@@ -1,0 +1,5 @@
+First we will install the libraries outlined above.
+
+pip install langchain langchain_community faiss-cpu sentence-transformers transformers
+Next, we add the necessary imports to start coding.
+
